@@ -13,6 +13,6 @@ public class Programa {
         double salarioReajustado = salario * (1 + percentual/100);
 
         JOptionPane.showMessageDialog(null,"Seu novo salário é R$" + salarioReajustado);
-
+          salario += 1;
     }
 }
