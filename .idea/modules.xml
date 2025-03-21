@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OrientacaoObjetos-Ibmec.iml" filepath="$PROJECT_DIR$/.idea/OrientacaoObjetos-Ibmec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arredondar/arredondar.iml" filepath="$PROJECT_DIR$/arredondar/arredondar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora2/calculadora2.iml" filepath="$PROJECT_DIR$/calculadora2/calculadora2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circulo/circulo.iml" filepath="$PROJECT_DIR$/circulo/circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distancia/distancia.iml" filepath="$PROJECT_DIR$/distancia/distancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrada/entrada.iml" filepath="$PROJECT_DIR$/entrada/entrada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expressaoMatematica/expressaoMatematica.iml" filepath="$PROJECT_DIR$/expressaoMatematica/expressaoMatematica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intervalo/intervalo.iml" filepath="$PROJECT_DIR$/intervalo/intervalo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/killowats/killowats.iml" filepath="$PROJECT_DIR$/killowats/killowats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parOuImpar/parOuImpar.iml" filepath="$PROJECT_DIR$/parOuImpar/parOuImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salario2/salario2.iml" filepath="$PROJECT_DIR$/salario2/salario2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tempo/tempo.iml" filepath="$PROJECT_DIR$/tempo/tempo.iml" />
+    </modules>
+  </component>
+</project>
